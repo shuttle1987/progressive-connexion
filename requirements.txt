@@ -1,3 +1,5 @@
+atomicwrites==1.2.1
+attrs==18.2.0
 certifi==2018.11.29
 chardet==3.0.4
 Click==7.0
@@ -10,8 +12,13 @@ itsdangerous==1.1.0
 Jinja2==2.10
 jsonschema==2.6.0
 MarkupSafe==1.1.0
+more-itertools==5.0.0
 openapi-spec-validator==0.2.4
+pathlib2==2.3.3
 pkg-resources==0.0.0
+pluggy==0.8.1
+py==1.7.0
+pytest==4.1.1
 PyYAML==3.13
 requests==2.21.0
 six==1.12.0
